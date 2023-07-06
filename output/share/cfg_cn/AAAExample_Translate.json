@@ -1,0 +1,42 @@
+{
+    "data": {
+        "10300001": {
+            "1": {
+                "cfg_id": 10300001,
+                "star": 1,
+                "name": "AAAExample_Translate_name_10300001_1"
+            },
+            "2": {
+                "cfg_id": 10300001,
+                "star": 2,
+                "name": "AAAExample_Translate_name_10300001_2"
+            },
+            "3": {
+                "cfg_id": 10300001,
+                "star": 3,
+                "name": "AAAExample_Translate_name_10300001_3"
+            }
+        },
+        "10300002": {
+            "1": {
+                "cfg_id": 10300002,
+                "star": 1,
+                "name": "AAAExample_Translate_name_10300002_1"
+            }
+        },
+        "10300003": {
+            "1": {
+                "cfg_id": 10300003,
+                "star": 1,
+                "name": "AAAExample_Translate_name_10300003_1"
+            }
+        },
+        "10300005": {
+            "1": {
+                "cfg_id": 10300005,
+                "star": 1,
+                "name": "AAAExample_Translate_name_10300005_1"
+            }
+        }
+    }
+}

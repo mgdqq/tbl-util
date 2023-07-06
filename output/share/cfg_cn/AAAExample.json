@@ -1,0 +1,227 @@
+{
+    "data": {
+        "10": {
+            "level": 10,
+            "exp": 10,
+            "element": [
+                {
+                    "atk": 1,
+                    "def": 11
+                },
+                {
+                    "atk": 2,
+                    "def": 22
+                },
+                {
+                    "atk": 3,
+                    "def": 33
+                }
+            ],
+            "desc": 11,
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 31,
+            "height": 110,
+            "check": "赵云"
+        },
+        "11": {
+            "level": 11,
+            "exp": 20,
+            "element": [
+                {
+                    "atk": 4,
+                    "def": 44
+                },
+                {
+                    "atk": 5,
+                    "def": 55
+                },
+                {
+                    "atk": 6,
+                    "def": 66
+                }
+            ],
+            "desc": 22,
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 32,
+            "height": 120,
+            "check": "关羽"
+        },
+        "12": {
+            "level": 12,
+            "exp": 30,
+            "element": [
+                {
+                    "atk": 1,
+                    "def": 11
+                },
+                {
+                    "atk": 2,
+                    "def": 22
+                },
+                {
+                    "atk": 4,
+                    "def": 34
+                }
+            ],
+            "desc": "ccc",
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 33,
+            "height": 130,
+            "check": "张飞"
+        },
+        "13": {
+            "level": 13,
+            "exp": 40,
+            "element": [
+                {
+                    "atk": 4,
+                    "def": 44
+                },
+                {
+                    "atk": 5,
+                    "def": 55
+                },
+                {
+                    "atk": 7,
+                    "def": 67
+                }
+            ],
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 31,
+            "height": 110,
+            "check": "赵云"
+        },
+        "14": {
+            "level": 14,
+            "exp": 50,
+            "element": [
+                {
+                    "atk": 1,
+                    "def": 11
+                },
+                {
+                    "atk": 2,
+                    "def": 22
+                },
+                {
+                    "atk": 5,
+                    "def": 35
+                }
+            ],
+            "desc": "bbb",
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 32,
+            "height": 120,
+            "check": "关羽"
+        },
+        "15": {
+            "level": 15,
+            "exp": 60,
+            "element": [
+                {
+                    "atk": 4,
+                    "def": 44
+                },
+                {
+                    "atk": 5,
+                    "def": 55
+                },
+                {
+                    "atk": 8,
+                    "def": 68
+                }
+            ],
+            "desc": "ccc",
+            "function": [
+                "表演",
+                "攻击生效前"
+            ],
+            "age": 33,
+            "height": 130,
+            "check": "张飞"
+        },
+        "16": {
+            "level": 16,
+            "exp": 70,
+            "element": [
+                {
+                    "atk": 1,
+                    "def": 11
+                },
+                {
+                    "atk": 2,
+                    "def": 22
+                },
+                {
+                    "atk": 6,
+                    "def": 36
+                }
+            ],
+            "function": [
+                "表演",
+                "攻击生效前"
+            ]
+        },
+        "17": {
+            "level": 17,
+            "exp": 80,
+            "element": [
+                {
+                    "atk": 4,
+                    "def": 44
+                },
+                {
+                    "atk": 5,
+                    "def": 55
+                },
+                {
+                    "atk": 9,
+                    "def": 69
+                }
+            ],
+            "desc": "bbb",
+            "function": [
+                "表演",
+                "攻击生效前"
+            ]
+        },
+        "18": {
+            "level": 18,
+            "exp": 90,
+            "element": [
+                {
+                    "atk": 1,
+                    "def": 11
+                },
+                {
+                    "atk": 2,
+                    "def": 22
+                },
+                {
+                    "atk": 7,
+                    "def": 37
+                }
+            ],
+            "desc": "ccc",
+            "function": [
+                "表演",
+                "攻击生效前"
+            ]
+        }
+    }
+}
