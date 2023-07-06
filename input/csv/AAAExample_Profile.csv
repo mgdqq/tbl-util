@@ -1,0 +1,6 @@
+名字;年龄;身高
+name;age;height
+string#unique;number#required;number#required
+赵云;31;110
+关羽;32;120
+张飞;33;130

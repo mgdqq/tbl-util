@@ -1,0 +1,7 @@
+{
+    "jsonIgnore": false,
+
+    "exportExcept": [
+        "AAAExample"
+    ]
+}

@@ -1,0 +1,12 @@
+等级;经验;数字选填;小数必填;字符串选填;#注释列;坐标x;坐标y;坐标z
+level;exp;pwadd;rate;desc;exp;pos.x;pos.y;pos.z
+number#unique;number#required;number#optional;number#required;string#optional;number#required;number#required;number#required;[number]#required
+1;10;100;0.1;等级1;100;3;40;50|51|52
+2;20;;0.2;等级2;120;4;51;51|52|53
+3;30;;0.3;等级3;140;5;42;50|51|53
+4;40;;0.4;;160;6;43;51|52|54|55
+5;50;20;0.5;等级5;180;7;44;50|51|54|
+6;60;;0.6;等级6;200;8;45;51|52|55
+7;70;;0.7;等级7;220;9;46;50|51|55
+8;80;;0.8;等级8;240;10;47;51|52|56
+9;90;20;0.9;等级9;260;11;48;50|51|56
